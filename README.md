@@ -18,6 +18,10 @@ File Consolidation Coming Soon!
 
 NCSU Unity ID with Access to WRS
 
+Google Chrome
+
+ChromeDriver -> https://googlechromelabs.github.io/chrome-for-testing/
+
 Python 3.8
 
 tkinter
